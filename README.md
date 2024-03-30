@@ -1,24 +1,29 @@
-# README
+<p align="center">
+  <a href="https://github.com/lpthong90/rails-mimi-store">
+    <img src="https://github.com/lpthong90/rails-mimi-store/assets/images/mimi_store.jpg" alt="Rails Mimi Store">
+  </a>
+  <br>
+  <em>Using Ruby on Rails to demo a e-commerce application.</em>
+</p>
+<!--more-->
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
 
-Things you may want to cover:
+**Documentation**: <a href="https://lpthong90.dev/rails-mimi-store" target="_blank">https://lpthong90.dev/rails-mimi-store</a>
 
-* Ruby version
+**Source Code**: <a href="https://github.com/lpthong90/rails-mimi-store" target="_blank">https://github.com/lpthong90/rails-mimi-store</a>
 
-* System dependencies
+---
 
-* Configuration
+# Features
 
-* Database creation
+# Run
 
-* Database initialization
+```bash
+> bundle install
+> ./bin/dev
+```
 
-* How to run the test suite
+# Snapshots
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Video demo:
