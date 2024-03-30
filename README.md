@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lpthong90/rails-mimi-store">
-    <img src="https://github.com/lpthong90/rails-mimi-store/assets/images/mimi_store.jpg" alt="Rails Mimi Store">
+    <img style="width: 500px;"  src="https://lpthong90.dev/rails-mimi-store/assets/images/mimi_store.jpg" alt="Rails Mimi Store">
   </a>
   <br>
   <em>Using Ruby on Rails to demo a e-commerce application.</em>
