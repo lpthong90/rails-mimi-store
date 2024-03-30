@@ -47,3 +47,5 @@ Admin Product Detail
 <img src="assets/images/screenshots/8_admin_product_detail.png" alt="Home">
 
 <!-- # Video demo: -->
+
+Thanks for [Solidus](https://github.com/solidusio/solidus) to help me save time to build this project.
