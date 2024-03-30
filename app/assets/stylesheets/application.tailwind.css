@@ -27,7 +27,7 @@
   }
 
   .button-primary {
-    @apply w-fit py-3 px-7 rounded-full text-body-sm font-sans-md tracking-wider leading-none uppercase whitespace-nowrap transition-colors duration-200 bg-red-500 text-white hover:bg-red-700;
+    @apply w-fit py-3 px-7 rounded-full text-body-sm font-sans-md tracking-wider leading-none uppercase whitespace-nowrap transition-colors duration-200 bg-black text-white hover:bg-gray-800 dark:text-black dark:bg-white dark:hover:bg-gray-100;
   }
 
   .categories-menu ul {
