@@ -15,7 +15,7 @@
 
 ---
 
-# Features
+<!-- # Features -->
 
 # Run
 
@@ -26,4 +26,24 @@
 
 # Snapshots
 
-# Video demo:
+Home
+<img src="assets/images/screenshots/1_home.png" alt="Home">
+<img src="assets/images/screenshots/2_home.png" alt="Home">
+<img src="assets/images/screenshots/3_home.png" alt="Home">
+
+Clothing
+<img src="assets/images/screenshots/4_clothing.png" alt="Home">
+
+Accessories
+<img src="assets/images/screenshots/5_accessories.png" alt="Home">
+
+Admin Orders
+<img src="assets/images/screenshots/6_admin_orders.png" alt="Home">
+
+Admin Products
+<img src="assets/images/screenshots/7_admin_products.png" alt="Home">
+
+Admin Product Detail
+<img src="assets/images/screenshots/8_admin_product_detail.png" alt="Home">
+
+<!-- # Video demo: -->
