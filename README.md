@@ -21,6 +21,7 @@
 
 ```bash
 > bundle install
+> rails db:migrate
 > ./bin/dev
 ```
 
