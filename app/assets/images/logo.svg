@@ -1,0 +1,15 @@
+<svg width="800" height="154" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0_1325_2710">
+   <rect fill="white" height="153.31" id="svg_1" width="800"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="Sans-serif" font-size="100" id="svg_7" stroke-width="0" style="cursor: move;" text-anchor="middle" x="469" xml:space="preserve" y="110.5">MIMI STORE</text>
+  <g id="svg_8">
+   <path d="m42.03,53.65l0,40.64l-38.03,-38.03c7.59,-25.04 30.85,-43.26 58.37,-43.26c27.53,0 49.13,16.96 57.5,40.65l-77.83,0z" fill="#EF3023" id="svg_3"/>
+   <path d="m120.72,91.7c-7.58,25.04 -30.84,43.26 -58.37,43.26c-27.52,0 -49.13,-16.98 -57.5,-40.65l77.83,0l0,-40.66l38.03,38.03l0,0.02z" fill="#EF3023" id="svg_4"/>
+  </g>
+ </g>
+</svg>
