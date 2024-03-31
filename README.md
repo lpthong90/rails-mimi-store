@@ -20,9 +20,10 @@
 # Run
 
 ```bash
-> bundle install
-> rails db:migrate
-> ./bin/dev
+> bin/bundle install
+> bin/rails db:migrate
+> bin/rails spree_sample:load
+> bin/dev
 ```
 
 # Snapshots
